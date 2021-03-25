@@ -1,0 +1,16 @@
+{
+  "name": "tmptorrents",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "esmify": "^2.1.1",
+    "srt-webvtt": "^1.0.1",
+    "webtorrent": "^0.115.4"
+  }
+}
